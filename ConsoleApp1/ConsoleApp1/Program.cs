@@ -10,10 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("the First Project!!");
-            Console.ReadKey();
-            Console.WriteLine("the First Project!!我添加了一行！");
-
+            Console.Write("");
         }
     }
 }
